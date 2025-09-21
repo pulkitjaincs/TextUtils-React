@@ -22,7 +22,7 @@
 
 You can see a live demo of the TextUtils app deployed on GitHub Pages:
 
-[https://pulkirjaincs.github.io/TextUtils-React](https://pulkirjaincs.github.io/TextUtils-React)
+[https://pulkirjaincs.github.io/TextUtils-React](https://pulkitjaincs.github.io/TextUtils-React)
 
 ## 🛠️ Tech Stack
 
@@ -190,10 +190,6 @@ git commit -m "Add: your feature description"
 # Push and create a Pull Request
 git push origin feature/your-feature-name
 ```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
