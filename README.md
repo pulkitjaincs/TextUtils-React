@@ -200,7 +200,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Pulkit Jain**
 - 🌐 GitHub: [@pulkitjaincs](https://github.com/pulkitjaincs)
 - 💼 LinkedIn: [@pulkitjaincs](https://linkedin.com/in/pulkitjaincs)
-- 📧 Email: your.email@example.com
+- 📧 Email: pulkitjain.cse@gmail.com
 
 ---
 
